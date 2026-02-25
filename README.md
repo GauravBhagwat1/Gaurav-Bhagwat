@@ -1,3 +1,4 @@
 # Gaurav-Bhagwat
 This is my first Git Repository
-Author Gaurav Bhagwat
+<br>
+Author Gaurav (Apna college)
